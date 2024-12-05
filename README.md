@@ -74,10 +74,7 @@ git clone your-project-url-in-github
 
 How to start your project
 
-```bash
-cd project-name
-npm some-command-to-run
-```
+you can run the project by double clicking on the html document, it will open directly in the browser
 
 <!--<h2 id="colab">🤝 Collaborators</h2>
 
