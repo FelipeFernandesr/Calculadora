@@ -8,6 +8,14 @@
 </p>
 
 <p align="center">
+ <b>
+  I developed this calculator in JavaScript to improve my web programming skills and create a useful tool for students and professionals who need fast and accurate calculations. Furthermore, I wanted to demonstrate the possibility of creating practical and accessible applications using web technologies.
+ </b>
+</p>
+
+<h2 align="center">💻 Instructions</h2>
+
+<p align="center">
     <b>First access the project url through your web browser. Click on the numbers with the mouse, this calculator does not yet have the functionality to capture keyboard commands. As in a physical calculator, enter the first number and then the operator and then the second number and then the equals sign to obtain the result of the operation. If you want to start a new operation from the beginning, you will have to clear the screen with the "c" key and only then start a new operation.</b>
 </p>
 
